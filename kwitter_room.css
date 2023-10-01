@@ -1,0 +1,40 @@
+body {
+    background-image: url("https://images-cdn.welcomesoftware.com/Zz0wZGI4ZTI2NjhlNGQxMWViODVlN2QzNTI0ZjhkZTQyOA==");
+    margin: 10px;
+    margin-bottom: 10px;
+    background-size: cover;
+}
+
+#kwitter{
+    height: 70px;
+    width: 70px;
+}
+
+.input_div_message_page{
+    background-image: linear-gradient(#FF69B4,#941494);
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 5px;
+    border-color: white;
+}
+
+#msg{
+   width: 800px;
+}
+
+#send{
+    margin-bottom: 20px;
+    background-color:hotpink;
+    color: black;
+    font-weight: 700;
+}
+
+#send label{
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#logout{
+    float: right;
+    display: inline-block;
+}

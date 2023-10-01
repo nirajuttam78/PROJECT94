@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://png.pngtree.com/background/20230513/original/pngtree-colorful-mountains-flat-style-picture-image_2511435.jpg");
+    margin: 10px;
+    margin-bottom: 10px;
+    background-size: cover;
+}
+
+#kwitter{
+    height: 80px;
+    width: 80px;
+
+}
+
+.logo {
+    margin-top: 10px;
+    height: 50px;
+    width: 50px;
+}
+
+.login_div {
+    background-image: linear-gradient(#fa8072,#7558bc);
+    margin-left: 620px;
+    margin-top: 40px;
+    border-radius: 10px;
+    border-color:black;
+}
+
+.header {
+    font-weight:600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    margin-top: 20px;
+}
+
+h3 , h4 , label {
+    color: black;
+}
+
